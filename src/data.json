@@ -1,0 +1,29 @@
+[ {"id":1,
+    "Name":"Akshit",
+    "City":"Moradabad",
+    "Contactno":878787437,
+    "Email":"a@gmail.com"
+    },
+
+    {"id":2,
+        "Name":"Ahit",
+        "City":"Madabad",
+        "Contactno":978787437,
+        "Email":"ahit@gmail.com"
+        } ,
+
+        {"id":3,
+            "Name":"shit",
+            "City":"dabad",
+            "Contactno":8786787437,
+            "Email":"shit@gmail.com"
+            } ,
+
+            {"id":4,
+                "Name":"Ak",
+                "City":"Morbi",
+                "Contactno":80007437,
+                "Email":"ak@gmail.com"
+                } 
+
+]
